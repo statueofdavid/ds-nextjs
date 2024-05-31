@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ds-nextjs
 because I think I get web 1.0, so its time for an upgrade... after some testing nextjs appears to be the best overall, for now.
 =======
@@ -38,4 +37,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
->>>>>>> 054b5d3 (Initial commit from Create Next App)
